@@ -16,7 +16,7 @@ YOLO divides the image into a grid and predicts bounding boxes and probabilities
 ### Model
 <br>
 <div align="center">
-<img src="yolov5_x\yolov5\yolov5-performance.png">
+<img src="yolov5_x/photos/yolov5-performance.png">
 <br>
 <i>Yolov5 Model Performance</i>
 </div>
@@ -44,13 +44,13 @@ However, YOLOv5x also has some disadvantages:
 ### Example Detection
 <br>
 <div align="center">
-<img src= "yolov5_x\yolov5\auv_output-1.png">
+<img src= "yolov5_x\photos\auv_output-1.png">
 <br>
 <i>Auv - Rov Detection</i>
 </div>
 <br>
 <div align="center">
-<img src= "yolov5_x\yolov5\auv-test-image.jpg">
+<img src= "yolov5_x\photos\auv-test-image.jpg">
 <br>
 <i>Auv - Rov Detection</i>
 </div>
@@ -60,7 +60,7 @@ However, YOLOv5x also has some disadvantages:
 
 <div align="center">
 
-<img src= "yolov5_x\yolov5\results.png">
+<img src= "yolov5_x\photos\results.png">
 <i>Model Results</i>
 </div>
 <br>
@@ -102,7 +102,7 @@ Model Evaluation
 
 <br>
 <div align="center">
-<img src= "yolov5_x\yolov5\labels_correlogram.jpg">
+<img src= "yolov5_x\photos\labels_correlogram.jpg">
 <i>Labels Correlogram Graph</i>
 </div>
 <br>
